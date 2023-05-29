@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ngsr9b0imrub/public_html
+    - /bin/cp * $DEPLOYPATH
+    
