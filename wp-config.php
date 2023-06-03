@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'Bintybyte-db' );
+define( 'DB_NAME', 'bintybyte_wp_site' );
 
 /** Database username */
-define( 'DB_USER', 'ctslpgr8_project' );
+define( 'DB_USER', 'bintybyte_wp_user1' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'CtsLp@456' );
+define( 'DB_PASSWORD', 'bintybyte_wp_pwd#1' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
